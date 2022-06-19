@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+<div align="center">
+
+[![linkedin](https://user-images.githubusercontent.com/78176435/173202937-008cc248-1a30-49a0-878f-2b0d59aeb0ac.png)](https://www.linkedin.com/in/zeromerodev/)
+[![twitter](https://user-images.githubusercontent.com/78176435/173201844-53214bdb-0a16-44d9-aafc-967f64f18082.png)](https://twitter.com/zeromerodev)
+[![github](https://user-images.githubusercontent.com/78176435/173201842-d2eb74bf-a612-4bc2-bcb4-2d4ab19a1cd0.png)](https://github.com/zeromero-dev)
+[![github](https://user-images.githubusercontent.com/78176435/173203001-a9e88659-a3f5-4aff-9db5-d243dcfb429e.png)](https://dev.to/zeromeroz)
+
+</div>
+
 <!--
 **zeromero-dev/zeromero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
