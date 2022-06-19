@@ -3,8 +3,8 @@
 
 <div align="center">
 
-[![linkedin](https://cdn.icon-icons.com/icons2/2873/PNG/512/linkedin_pixel_logo_icon_181925.png)](https://www.linkedin.com/in/zeromerodev/)
-[![twitter](https://cdn.icon-icons.com/icons2/2873/PNG/512/twitter_pixel_logo_icon_181924.png)](https://twitter.com/zeromerodev)
+[![linkedin](https://cdn.icon-icons.com/icons2/2873/PNG/64/linkedin_pixel_logo_icon_181925.png)](https://www.linkedin.com/in/zeromerodev/)
+[![twitter](https://cdn.icon-icons.com/icons2/2873/PNG/64/twitter_pixel_logo_icon_181924.png)](https://twitter.com/zeromerodev)
 [![github](http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/d7e4e1e509c728d.png)](https://github.com/zeromero-dev)
 [![github](https://user-images.githubusercontent.com/78176435/173203001-a9e88659-a3f5-4aff-9db5-d243dcfb429e.png)](https://dev.to/zeromeroz)
 
