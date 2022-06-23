@@ -1,6 +1,7 @@
 ### Hi there 👋
+My name is Roman and I'm a Full Stack Developer.
 
-
+You can follow me by clicking on the icons below!
 <div align="center">
 
 [![linkedin](https://cdn.icon-icons.com/icons2/2873/PNG/64/linkedin_pixel_logo_icon_181925.png)](https://www.linkedin.com/in/zeromerodev/)
