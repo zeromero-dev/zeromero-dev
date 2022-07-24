@@ -8,7 +8,6 @@ You can follow me by clicking on the icons below!
 [![twitter](https://cdn.icon-icons.com/icons2/2873/PNG/64/twitter_pixel_logo_icon_181924.png)](https://twitter.com/zeromerodev)
 [![github](https://user-images.githubusercontent.com/55024478/174501887-7f104282-08fd-4d61-b405-171047dab94e.png)](https://github.com/zeromero-dev)
 
-
 </div>
 
 <!--
