@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 My name is Roman and I'm a Full Stack Developer.
 
 You can follow me by clicking on the icons below!
