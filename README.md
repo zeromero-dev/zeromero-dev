@@ -1,5 +1,5 @@
 ### 👋
-My name is Roman and I'm a Full Stack Developer.
+**My name is Roman and I'm a Full Stack Developer.**
 
 
 You can find me on social media by clicking on the icons below!
